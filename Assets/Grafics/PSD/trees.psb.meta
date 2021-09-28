@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: b5bd8210ec0e76742b5e51b728a91c00
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: "\u0421\u043B\u043E\u0439 21"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 636
+      height: 2086
+    spriteID: 2c5eb383c1d05184dbfd572959b4d7d1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -685, y: -140}
+  - name: "\u0421\u043B\u043E\u0439 20"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3211
+      y: 567
+      width: 704
+      height: 666
+    spriteID: c2a7c339e7f4e924b97c07ccf7c3da91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2928, y: -823}
+  - name: treesarm
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 567
+      width: 849
+      height: 675
+    spriteID: 3f37b3b3cc1e5b7499f7264cbd85853a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -372, y: -901}
+  - name: treesarm4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1505
+      y: 567
+      width: 916
+      height: 564
+    spriteID: fe8ebade515bb3a42afa6e47200f12e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1505, y: -1012}
+  - name: treesarm3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2519
+      y: 4
+      width: 327
+      height: 314
+    spriteID: 0931a390094a6eb4bb8280130e6092ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1513, y: -984}
+  - name: trees3finger1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2429
+      y: 567
+      width: 774
+      height: 609
+    spriteID: bd6b3075a5fdc904ca4117b930ba90ba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1125, y: -120}
+  - name: trees2finger5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3962
+      y: 4
+      width: 98
+      height: 189
+    spriteID: 0d97d7423925d514bb49504f141a0f85
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2557, y: -1507}
+  - name: trees2finger4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3458
+      y: 4
+      width: 264
+      height: 170
+    spriteID: d8a7dee25b3c79b489ea7f3a43c72b73
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1184, y: -1310}
+  - name: trees2finger3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2135
+      y: 4
+      width: 376
+      height: 391
+    spriteID: 19e47a2b09cce504e87778359290f714
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -159, y: -1620}
+  - name: trees2finger2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3728
+      width: 338
+      height: 320
+    spriteID: f98f41edb679f414ba4218b07ae3e9d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2138, y: 2351}
+  - name: trees2fingers1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2519
+      y: 326
+      width: 320
+      height: 208
+    spriteID: 2ace6352c88a53d41a78a9f82278eb79
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 147, y: -1045}
+  - name: treesarm2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 4
+      width: 1479
+      height: 555
+    spriteID: a79edbc6fdf22ca49afc71cec93748bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -361, y: -1168}
+  - name: treesfinger7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1505
+      y: 1139
+      width: 227
+      height: 80
+    spriteID: 042ade3edfec67e4688f358e4c171a01
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -287, y: -769}
+  - name: treesfinger6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3182
+      y: 4
+      width: 268
+      height: 184
+    spriteID: cd4db6eb17205fe4f9764b91ead97a22
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1441, y: -1709}
+  - name: threes finger 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2135
+      y: 403
+      width: 180
+      height: 153
+    spriteID: 777203a0eeb23614aa6d24a3f6b66570
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 451, y: -1595}
+  - name: treesfinger4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 3728
+      width: 261
+      height: 332
+    spriteID: 5fba83721b16c9242b69a2eb5536d981
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1392, y: 1914}
+  - name: treesfinger3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3730
+      y: 4
+      width: 224
+      height: 197
+    spriteID: 4f172c042ff2cff4f89d4a461930d6fd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2196, y: -2005}
+  - name: fingertrees2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2854
+      y: 4
+      width: 320
+      height: 235
+    spriteID: 1d9cecc1ccb9452498c13c2ff625e6bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1578, y: -1923}
+  - name: tressfingers1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3923
+      y: 567
+      width: 169
+      height: 238
+    spriteID: ca22f351ce3bec84f96aa373c83d59d4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2767, y: -1191}
+  - name: trees
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2098
+      width: 554
+      height: 1622
+    spriteID: 8bc87d57853d78b46bd721068135f184
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -594, y: 2098}
+  - name: "\u0421\u043B\u043E\u0439 1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 648
+      y: 1250
+      width: 625
+      height: 657
+    spriteID: 73c53ed49ca952e47b561364a3008cba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 460, y: -133}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2692, y: 2230}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "\u0421\u043B\u043E\u0439 21"
+    spriteName: "\u0421\u043B\u043E\u0439 21"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c5eb383c1d05184dbfd572959b4d7d1
+    layerID: 22
+    mosaicPosition: {x: 4, y: 4}
+  - name: "\u0421\u043B\u043E\u0439 20"
+    spriteName: "\u0421\u043B\u043E\u0439 20"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c2a7c339e7f4e924b97c07ccf7c3da91
+    layerID: 21
+    mosaicPosition: {x: 3211, y: 567}
+  - name: treesarm
+    spriteName: treesarm
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3f37b3b3cc1e5b7499f7264cbd85853a
+    layerID: 20
+    mosaicPosition: {x: 648, y: 567}
+  - name: treesarm4
+    spriteName: treesarm4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe8ebade515bb3a42afa6e47200f12e6
+    layerID: 19
+    mosaicPosition: {x: 1505, y: 567}
+  - name: treesarm3
+    spriteName: treesarm3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0931a390094a6eb4bb8280130e6092ed
+    layerID: 18
+    mosaicPosition: {x: 2519, y: 4}
+  - name: trees3finger1
+    spriteName: trees3finger1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bd6b3075a5fdc904ca4117b930ba90ba
+    layerID: 17
+    mosaicPosition: {x: 2429, y: 567}
+  - name: trees2finger5
+    spriteName: trees2finger5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0d97d7423925d514bb49504f141a0f85
+    layerID: 16
+    mosaicPosition: {x: 3962, y: 4}
+  - name: trees2finger4
+    spriteName: trees2finger4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d8a7dee25b3c79b489ea7f3a43c72b73
+    layerID: 15
+    mosaicPosition: {x: 3458, y: 4}
+  - name: trees2finger3
+    spriteName: trees2finger3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19e47a2b09cce504e87778359290f714
+    layerID: 14
+    mosaicPosition: {x: 2135, y: 4}
+  - name: trees2finger2
+    spriteName: trees2finger2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f98f41edb679f414ba4218b07ae3e9d5
+    layerID: 13
+    mosaicPosition: {x: 4, y: 3728}
+  - name: trees2fingers1
+    spriteName: trees2fingers1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2ace6352c88a53d41a78a9f82278eb79
+    layerID: 12
+    mosaicPosition: {x: 2519, y: 326}
+  - name: treesarm2
+    spriteName: treesarm2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a79edbc6fdf22ca49afc71cec93748bc
+    layerID: 11
+    mosaicPosition: {x: 648, y: 4}
+  - name: treesfinger7
+    spriteName: treesfinger7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 042ade3edfec67e4688f358e4c171a01
+    layerID: 10
+    mosaicPosition: {x: 1505, y: 1139}
+  - name: treesfinger6
+    spriteName: treesfinger6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cd4db6eb17205fe4f9764b91ead97a22
+    layerID: 9
+    mosaicPosition: {x: 3182, y: 4}
+  - name: threes finger 5
+    spriteName: threes finger 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 777203a0eeb23614aa6d24a3f6b66570
+    layerID: 8
+    mosaicPosition: {x: 2135, y: 403}
+  - name: treesfinger4
+    spriteName: treesfinger4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5fba83721b16c9242b69a2eb5536d981
+    layerID: 7
+    mosaicPosition: {x: 350, y: 3728}
+  - name: treesfinger3
+    spriteName: treesfinger3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4f172c042ff2cff4f89d4a461930d6fd
+    layerID: 6
+    mosaicPosition: {x: 3730, y: 4}
+  - name: fingertrees2
+    spriteName: fingertrees2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d9cecc1ccb9452498c13c2ff625e6bb
+    layerID: 5
+    mosaicPosition: {x: 2854, y: 4}
+  - name: tressfingers1
+    spriteName: tressfingers1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ca22f351ce3bec84f96aa373c83d59d4
+    layerID: 4
+    mosaicPosition: {x: 3923, y: 567}
+  - name: trees
+    spriteName: trees
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8bc87d57853d78b46bd721068135f184
+    layerID: 3
+    mosaicPosition: {x: 4, y: 2098}
+  - name: "\u0421\u043B\u043E\u0439 1"
+    spriteName: "\u0421\u043B\u043E\u0439 1"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73c53ed49ca952e47b561364a3008cba
+    layerID: 2
+    mosaicPosition: {x: 648, y: 1250}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: trees Texture
+  prefabAssetName: trees Prefab
+  spriteLibAssetName: trees Sprite Lib
+  secondarySpriteTextures: []
